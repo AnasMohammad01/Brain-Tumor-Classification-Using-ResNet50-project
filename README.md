@@ -195,29 +195,8 @@ This helps understand how the CNN makes predictions.
 
 ---
 
-# 📁 Project Structure
 
-```
-Brain_Tumor_Classification/
-│
-├── data/
-│
-├── notebooks/
-│
-├── models/
-│
-├── preprocessing/
-│
-├── gradcam/
-│
-├── results/
-│
-├── figures/
-│
-├── requirements.txt
-│
-└── README.md
-```
+
 
 ---
 
